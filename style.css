@@ -1,0 +1,35 @@
+
+*{
+    background-color: lightseagreen;
+}
+th,td{
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 2px 2px 2px black;
+}
+th{
+    background-color: lightgrey;
+}
+td{
+    background-color: lightblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2{
+    color:indigo;
+    background-color:cornflowerblue;
+    padding: 10px;
+    width: 10%;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px indigo;
+}
+h1{
+    text-align: center;
+    background-color: lightblue;
+    padding: 20px;
+    width: 20%;
+    border-radius: 30px;
+    margin-left: 38%;
+    box-shadow: 3px 3px 3px black;
+}
